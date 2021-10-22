@@ -1,4 +1,3 @@
- 
 #include<studio.h>
 struct employee{
     char    name[30];
